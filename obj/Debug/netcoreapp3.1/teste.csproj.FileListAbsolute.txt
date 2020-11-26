@@ -1,0 +1,13 @@
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Users\pedro.verceze\Desktop\teste pratico\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
